@@ -1,0 +1,13 @@
+rofi.terminal:	urxvt
+rofi.lines:		10
+rofi.eh:		2
+rofi.width:		60
+rofi.padding:	300
+rofi.opacity:	95
+rofi.bw:		5
+rofi.bc:		#458588
+rofi.bg:		#282828
+rofi.fg:		#458588
+rofi.hlbg:		#FABD2F
+rofi.hlfg:		#282828
+rofi.font:		Source Code Pro 18
